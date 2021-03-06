@@ -12,13 +12,23 @@ Build c++ library
 
 # Requirements
 argparse
+
 matplotlib
+
 scipy
+
 tqdm
+
 requests
+
 fire
+
 dill
+
 git+https://github.com/ppwwyyxx/tensorpack.git
+
 PyQt 4.7+, PySide, or PyQt5
+
 NumPy
+
 For 3D graphics: pyopengl and qt-opengl
