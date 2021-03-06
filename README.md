@@ -1,12 +1,13 @@
 # Gait-Analysis-using-3D-Pose-Estimation-with-GUI
 Gait Analysis Using 3D Pose Estimation with an Informative GUI
-Dependencies:
+
+# Dependencies:
 python3
 tensorflow 1.4.1+
 opencv3, protobuf, python3-tk
 Build c++ library 
 
-Requirements
+# Requirements
 argparse
 matplotlib
 scipy
