@@ -46,6 +46,6 @@ Python run.py --image==exampleimg.jpg
 
 5.Finally using these 2D key points we estimate the 3D pose
 
-### Main Repository used:https://github.com/ildoonet/tf-pose-estimation
+#### Main repository used:https://github.com/ildoonet/tf-pose-estimation
 
 #### Repository used for 3D plotting:https://github.com/pyqtgraph/pyqtgraph
