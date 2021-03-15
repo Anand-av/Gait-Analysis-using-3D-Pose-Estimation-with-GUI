@@ -1,9 +1,5 @@
 #   Gait-Analysis-using-3D-Pose-Estimation-with-GUI
 
-### Main Repository used:https://github.com/ildoonet/tf-pose-estimation
-
-#### Repository used for 3D plotting:https://github.com/pyqtgraph/pyqtgraph
-
 #### Dependencies
     Python3
     Tensorflow 1.3.6, Tensorflow Graphs
@@ -49,3 +45,7 @@ Python run.py --image==exampleimg.jpg
 4.We also get the heat map, Vector map-x and Vector map-y along.
 
 5.Finally using these 2D key points we estimate the 3D pose
+
+### Main Repository used:https://github.com/ildoonet/tf-pose-estimation
+
+#### Repository used for 3D plotting:https://github.com/pyqtgraph/pyqtgraph
