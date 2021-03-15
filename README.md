@@ -5,9 +5,10 @@
 #### Repository used for 3D plotting:https://github.com/pyqtgraph/pyqtgraph
 
 #### Dependencies
-    python3
-    tensorflow 1.4.1+
-    opencv3, protobuf, python3-tk
+    Python3
+    Tensorflow 1.3.6, Tensorflow Graphs
+    Opencv3, python3-tk, protobuf
+    Build c++ library 
 
 #### Requiremnets
     argparse
