@@ -23,7 +23,7 @@
     NumPy
     For 3D graphics: pyopengl and qt-opengl
 
-#### OVERVIEW OF THE PROCESS
+#### ESTIMATE THE 3D POSE IN REALTIME
 1.Scenario where a person walks Infront of the camera. The person may be a Normal/Abnormal person. 
 
 2.Post this scenario, Extraction of coordinates values. The coordinate values are collected in a txt file in the form of a list.
@@ -38,7 +38,7 @@
 
 7.There is a small GUI that is being built in order to display the main highlights of the process and the results. (There is a separate doc available on the Interface and working of the GUI)
 
-#### Using 2D key points from Images, we estimate the 3D pose
+#### TEST INTERFERENCE, FROM IMAGES, WE ESTIMATE THE 3D POSE 
 1.We upload a Jpg image of a person.
 
 2.Once we execute the run file using the below command:
