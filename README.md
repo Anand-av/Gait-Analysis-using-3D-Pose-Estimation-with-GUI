@@ -5,7 +5,9 @@
     Tensorflow 1.3.6, Tensorflow Graphs
     Opencv3, python3-tk, protobuf
     Build c++ library 
-
+    cd tf_pose/pafprocess
+    swig -python -c++ pafprocess.i && python3 setup.py build_ext --inplace
+    
 #### Requiremnets
     argparse
     matplotlib
