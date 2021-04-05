@@ -1,0 +1,19 @@
+cd Desktop
+git clone https://github.com/SrikanthVelpuri/tf-pose
+cd tf-pose
+conda create -n tfpose pyhton=3.6 pip
+activate tfpose
+pip install -r requirements.txt
+pip install --ignore-installed --upgrade tensorflow-gpu
+#opendrive for opencv file
+cd ..
+cd ..
+cd Downloads
+pip install opencv...
+cd ..
+cd Desktop
+cd tf-pose
+cd src
+python run_webcam.py
+python runworking.py or pyhton runworking.py --image=test1.jpg
+python testwebcam3D.py
