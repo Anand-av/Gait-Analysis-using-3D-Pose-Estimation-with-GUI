@@ -944,7 +944,7 @@ lbl2.place(x=85, y=440)
 btn2 = Button(window, text='Load', fg='blue', command = lambda: feat_ext())
 btn2.place(x=235, y=440)
 
-lbl3 = Label(window, foreground='green', text='Select the option')
+lbl3 = Label(window, foreground='green', text='Select the experiment')
 lbl3.config(font=('Times New Roman', 10))
 lbl3.place(x=85, y=480)
 
@@ -968,7 +968,7 @@ btn3.place(x=200, y=200)
 
 #anim_image()
 
-window.title('GAIT ANALYSIS')
+window.title('GAIT ANALYSIS USING 3D POSE ESTIMATION')
 window.configure(bg='light blue')
 window.geometry("500x600")
 window.mainloop()
